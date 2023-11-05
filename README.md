@@ -11,3 +11,4 @@
 - This python script is under "Apache License v2.0" follow and use respectively.
 - Original Script by "Cracko298".
 - Modified Script by "YT-Toaster".
+- 3DST Documentation Also by "Cracko298" helped.
