@@ -6,3 +6,8 @@
 
 ## Download
 - Download [here](https://github.com/YT-Toaster/MC3DS-CE/releases/download/v1/MC3DS-CE.exe) (in an .exe format).
+
+## Credits:
+- This python script is under "Apache License v2.0" follow and use respectively.
+- Original Script by "Cracko298".
+- Modified Script by "YT-Toaster".
